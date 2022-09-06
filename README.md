@@ -10,7 +10,7 @@ Wir werden also fetch(<GITHUB-JSON-FILE-URL>) verwenden.
 
 Unten sehen Sie ein GIF, das Ihnen zeigt, wie Sie die Url der json-Datei aus Ihrem Repository erhalten
 
-![](https://github.com/giacomotolari/json-fetch/blob/main/JSON-RAW.gif)
+![](https://github.com/giacomotolari/fetch-from-github/blob/main/JSON-RAW.gif)
 
 
 ## 1. Erstellen Sie ein ***Repository*** in GitHub und erstellen Sie darin eine json-Datei, die ein Array mit 5 Personen-Objekten enthält. Jedes Personen-Objekt enthält drei ***keys***: Vorname, Nachname, Alter und weist beliebige Werte zu. Sie müssen sicherstellen, dass Änderungen innerhalb des Repositorys auch remote erfolgen.
