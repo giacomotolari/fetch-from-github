@@ -19,5 +19,4 @@ Unten sehen Sie ein GIF, das Ihnen zeigt, wie Sie die Url der json-Datei aus Ihr
 
 ## 3. Zeigen Sie im Browser eine Liste oder Tabelle mit allen Personen an, wir sollten in der Lage sein, den Vornamen, Nachnamen und das Alter von jeder Person zu sehen. Um dies zu tun, müssen wir im DOM manipulieren.
 
-# fetch-from-github
-# fetch-from-github
+
