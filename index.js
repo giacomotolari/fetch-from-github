@@ -18,7 +18,7 @@ button.addEventListener("click", async () => {
   try {
     const response = await fetch(URL_API);
     const data = await response.json();
-    data.map((person) => {
+    list.innerHTML.length === 0 && data.map((person) => {
       return (list.innerHTML += `<li>${person.firstName} - ${person.lastName} -${person.age}</li>`);
     });
   } catch (err) {
